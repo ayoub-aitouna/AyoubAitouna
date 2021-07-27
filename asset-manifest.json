@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PortfolioDesign/static/css/main.bb16b438.chunk.css",
-    "main.js": "/PortfolioDesign/static/js/main.2ead27cc.chunk.js",
-    "main.js.map": "/PortfolioDesign/static/js/main.2ead27cc.chunk.js.map",
+    "main.css": "/PortfolioDesign/static/css/main.d4af7e71.chunk.css",
+    "main.js": "/PortfolioDesign/static/js/main.babc86cb.chunk.js",
+    "main.js.map": "/PortfolioDesign/static/js/main.babc86cb.chunk.js.map",
     "runtime-main.js": "/PortfolioDesign/static/js/runtime-main.0453a690.js",
     "runtime-main.js.map": "/PortfolioDesign/static/js/runtime-main.0453a690.js.map",
     "static/js/2.71f727e3.chunk.js": "/PortfolioDesign/static/js/2.71f727e3.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.5c18383f.chunk.js": "/PortfolioDesign/static/js/3.5c18383f.chunk.js",
     "static/js/3.5c18383f.chunk.js.map": "/PortfolioDesign/static/js/3.5c18383f.chunk.js.map",
     "index.html": "/PortfolioDesign/index.html",
-    "static/css/main.bb16b438.chunk.css.map": "/PortfolioDesign/static/css/main.bb16b438.chunk.css.map",
+    "static/css/main.d4af7e71.chunk.css.map": "/PortfolioDesign/static/css/main.d4af7e71.chunk.css.map",
     "static/js/2.71f727e3.chunk.js.LICENSE.txt": "/PortfolioDesign/static/js/2.71f727e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0453a690.js",
     "static/js/2.71f727e3.chunk.js",
-    "static/css/main.bb16b438.chunk.css",
-    "static/js/main.2ead27cc.chunk.js"
+    "static/css/main.d4af7e71.chunk.css",
+    "static/js/main.babc86cb.chunk.js"
   ]
 }
