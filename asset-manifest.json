@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/PortfolioDesign/static/css/main.ffd568da.chunk.css",
-    "main.js": "/PortfolioDesign/static/js/main.943c0fbd.chunk.js",
-    "main.js.map": "/PortfolioDesign/static/js/main.943c0fbd.chunk.js.map",
-    "runtime-main.js": "/PortfolioDesign/static/js/runtime-main.83708083.js",
-    "runtime-main.js.map": "/PortfolioDesign/static/js/runtime-main.83708083.js.map",
-    "static/js/2.883d0aa6.chunk.js": "/PortfolioDesign/static/js/2.883d0aa6.chunk.js",
-    "static/js/2.883d0aa6.chunk.js.map": "/PortfolioDesign/static/js/2.883d0aa6.chunk.js.map",
-    "static/js/3.7cf96474.chunk.js": "/PortfolioDesign/static/js/3.7cf96474.chunk.js",
-    "static/js/3.7cf96474.chunk.js.map": "/PortfolioDesign/static/js/3.7cf96474.chunk.js.map",
-    "index.html": "/PortfolioDesign/index.html",
-    "static/css/main.ffd568da.chunk.css.map": "/PortfolioDesign/static/css/main.ffd568da.chunk.css.map",
-    "static/js/2.883d0aa6.chunk.js.LICENSE.txt": "/PortfolioDesign/static/js/2.883d0aa6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/PortfolioDesign/static/media/IntroDemoBlackCaps.f4e87ba8.otf"
+    "main.css": "/AyoubAitouna/static/css/main.84e3428a.chunk.css",
+    "main.js": "/AyoubAitouna/static/js/main.357f88f2.chunk.js",
+    "main.js.map": "/AyoubAitouna/static/js/main.357f88f2.chunk.js.map",
+    "runtime-main.js": "/AyoubAitouna/static/js/runtime-main.7e70c837.js",
+    "runtime-main.js.map": "/AyoubAitouna/static/js/runtime-main.7e70c837.js.map",
+    "static/js/2.c8e40937.chunk.js": "/AyoubAitouna/static/js/2.c8e40937.chunk.js",
+    "static/js/2.c8e40937.chunk.js.map": "/AyoubAitouna/static/js/2.c8e40937.chunk.js.map",
+    "static/js/3.7cf96474.chunk.js": "/AyoubAitouna/static/js/3.7cf96474.chunk.js",
+    "static/js/3.7cf96474.chunk.js.map": "/AyoubAitouna/static/js/3.7cf96474.chunk.js.map",
+    "index.html": "/AyoubAitouna/index.html",
+    "static/css/main.84e3428a.chunk.css.map": "/AyoubAitouna/static/css/main.84e3428a.chunk.css.map",
+    "static/js/2.c8e40937.chunk.js.LICENSE.txt": "/AyoubAitouna/static/js/2.c8e40937.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/AyoubAitouna/static/media/IntroDemoBlackCaps.f4e87ba8.otf",
+    "static/media/Portfolio.17a3d089.png": "/AyoubAitouna/static/media/Portfolio.17a3d089.png",
+    "static/media/Profile.1daea86d.png": "/AyoubAitouna/static/media/Profile.1daea86d.png",
+    "static/media/ecommers.9bb46b73.png": "/AyoubAitouna/static/media/ecommers.9bb46b73.png",
+    "static/media/instaClone.a0bc78c8.png": "/AyoubAitouna/static/media/instaClone.a0bc78c8.png",
+    "static/media/moviesSite.bc42d5c5.png": "/AyoubAitouna/static/media/moviesSite.bc42d5c5.png",
+    "static/media/platform.87ab6ad2.png": "/AyoubAitouna/static/media/platform.87ab6ad2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.83708083.js",
-    "static/js/2.883d0aa6.chunk.js",
-    "static/css/main.ffd568da.chunk.css",
-    "static/js/main.943c0fbd.chunk.js"
+    "static/js/runtime-main.7e70c837.js",
+    "static/js/2.c8e40937.chunk.js",
+    "static/css/main.84e3428a.chunk.css",
+    "static/js/main.357f88f2.chunk.js"
   ]
 }
