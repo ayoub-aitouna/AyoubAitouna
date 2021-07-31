@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/AyoubAitouna/static/css/main.59fe0778.chunk.css",
-    "main.js": "/AyoubAitouna/static/js/main.357f88f2.chunk.js",
-    "main.js.map": "/AyoubAitouna/static/js/main.357f88f2.chunk.js.map",
-    "runtime-main.js": "/AyoubAitouna/static/js/runtime-main.7e70c837.js",
-    "runtime-main.js.map": "/AyoubAitouna/static/js/runtime-main.7e70c837.js.map",
-    "static/js/2.c8e40937.chunk.js": "/AyoubAitouna/static/js/2.c8e40937.chunk.js",
-    "static/js/2.c8e40937.chunk.js.map": "/AyoubAitouna/static/js/2.c8e40937.chunk.js.map",
-    "static/js/3.7cf96474.chunk.js": "/AyoubAitouna/static/js/3.7cf96474.chunk.js",
-    "static/js/3.7cf96474.chunk.js.map": "/AyoubAitouna/static/js/3.7cf96474.chunk.js.map",
+    "main.css": "/AyoubAitouna/static/css/main.1716a1bd.chunk.css",
+    "main.js": "/AyoubAitouna/static/js/main.90dc4cfa.chunk.js",
+    "main.js.map": "/AyoubAitouna/static/js/main.90dc4cfa.chunk.js.map",
+    "runtime-main.js": "/AyoubAitouna/static/js/runtime-main.8857d245.js",
+    "runtime-main.js.map": "/AyoubAitouna/static/js/runtime-main.8857d245.js.map",
+    "static/js/2.bb5b8bef.chunk.js": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js",
+    "static/js/2.bb5b8bef.chunk.js.map": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js.map",
+    "static/js/3.c5723f1d.chunk.js": "/AyoubAitouna/static/js/3.c5723f1d.chunk.js",
+    "static/js/3.c5723f1d.chunk.js.map": "/AyoubAitouna/static/js/3.c5723f1d.chunk.js.map",
     "index.html": "/AyoubAitouna/index.html",
-    "static/css/main.59fe0778.chunk.css.map": "/AyoubAitouna/static/css/main.59fe0778.chunk.css.map",
-    "static/js/2.c8e40937.chunk.js.LICENSE.txt": "/AyoubAitouna/static/js/2.c8e40937.chunk.js.LICENSE.txt",
+    "static/css/main.1716a1bd.chunk.css.map": "/AyoubAitouna/static/css/main.1716a1bd.chunk.css.map",
+    "static/js/2.bb5b8bef.chunk.js.LICENSE.txt": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js.LICENSE.txt",
     "static/media/index.css": "/AyoubAitouna/static/media/IntroDemoBlackCaps.f4e87ba8.otf",
     "static/media/Portfolio.17a3d089.png": "/AyoubAitouna/static/media/Portfolio.17a3d089.png",
     "static/media/Profile.1daea86d.png": "/AyoubAitouna/static/media/Profile.1daea86d.png",
@@ -21,9 +21,9 @@
     "static/media/platform.87ab6ad2.png": "/AyoubAitouna/static/media/platform.87ab6ad2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e70c837.js",
-    "static/js/2.c8e40937.chunk.js",
-    "static/css/main.59fe0778.chunk.css",
-    "static/js/main.357f88f2.chunk.js"
+    "static/js/runtime-main.8857d245.js",
+    "static/js/2.bb5b8bef.chunk.js",
+    "static/css/main.1716a1bd.chunk.css",
+    "static/js/main.90dc4cfa.chunk.js"
   ]
 }
