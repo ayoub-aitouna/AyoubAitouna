@@ -100,8 +100,8 @@ const projects = [
       "Django Channels",
       "PostgreSQL",
     ],
-    githubUrl: "https://github.com/ayoub-aitouna/ft_transcendence",
-    Url: "https://github.com/ayoub-aitouna/ft_transcendence",
+    githubUrl: "https://github.com/ayoub-aitouna/Transcendent",
+    Url: "https://github.com/ayoub-aitouna/Transcendent",
   },
   {
     img: "https://raw.githubusercontent.com/ayoub-aitouna/miniRT42/main/rendred_scenes/torus.png",

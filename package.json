@@ -13,7 +13,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://jrayoub.github.io/PortfolioDesign",
+  "homepage": "https://ayoub-aitouna.github.io/AyoubAitouna",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
