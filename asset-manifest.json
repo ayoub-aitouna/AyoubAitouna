@@ -1,29 +1,17 @@
 {
   "files": {
-    "main.css": "/AyoubAitouna/static/css/main.1716a1bd.chunk.css",
-    "main.js": "/AyoubAitouna/static/js/main.90dc4cfa.chunk.js",
-    "main.js.map": "/AyoubAitouna/static/js/main.90dc4cfa.chunk.js.map",
-    "runtime-main.js": "/AyoubAitouna/static/js/runtime-main.8857d245.js",
-    "runtime-main.js.map": "/AyoubAitouna/static/js/runtime-main.8857d245.js.map",
-    "static/js/2.bb5b8bef.chunk.js": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js",
-    "static/js/2.bb5b8bef.chunk.js.map": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js.map",
-    "static/js/3.c5723f1d.chunk.js": "/AyoubAitouna/static/js/3.c5723f1d.chunk.js",
-    "static/js/3.c5723f1d.chunk.js.map": "/AyoubAitouna/static/js/3.c5723f1d.chunk.js.map",
-    "index.html": "/AyoubAitouna/index.html",
-    "static/css/main.1716a1bd.chunk.css.map": "/AyoubAitouna/static/css/main.1716a1bd.chunk.css.map",
-    "static/js/2.bb5b8bef.chunk.js.LICENSE.txt": "/AyoubAitouna/static/js/2.bb5b8bef.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/AyoubAitouna/static/media/IntroDemoBlackCaps.f4e87ba8.otf",
-    "static/media/Portfolio.17a3d089.png": "/AyoubAitouna/static/media/Portfolio.17a3d089.png",
-    "static/media/Profile.1daea86d.png": "/AyoubAitouna/static/media/Profile.1daea86d.png",
-    "static/media/ecommers.9bb46b73.png": "/AyoubAitouna/static/media/ecommers.9bb46b73.png",
-    "static/media/instaClone.a0bc78c8.png": "/AyoubAitouna/static/media/instaClone.a0bc78c8.png",
-    "static/media/moviesSite.bc42d5c5.png": "/AyoubAitouna/static/media/moviesSite.bc42d5c5.png",
-    "static/media/platform.87ab6ad2.png": "/AyoubAitouna/static/media/platform.87ab6ad2.png"
+    "main.css": "/PortfolioDesign/static/css/main.54c5d38e.css",
+    "main.js": "/PortfolioDesign/static/js/main.29d252a0.js",
+    "static/js/453.d71f439e.chunk.js": "/PortfolioDesign/static/js/453.d71f439e.chunk.js",
+    "static/media/profile.jpg": "/PortfolioDesign/static/media/profile.1183da849e23039339ca.jpg",
+    "static/media/IntroDemoBlackCaps.otf": "/PortfolioDesign/static/media/IntroDemoBlackCaps.f4e87ba875ac8d19dbfd.otf",
+    "index.html": "/PortfolioDesign/index.html",
+    "main.54c5d38e.css.map": "/PortfolioDesign/static/css/main.54c5d38e.css.map",
+    "main.29d252a0.js.map": "/PortfolioDesign/static/js/main.29d252a0.js.map",
+    "453.d71f439e.chunk.js.map": "/PortfolioDesign/static/js/453.d71f439e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8857d245.js",
-    "static/js/2.bb5b8bef.chunk.js",
-    "static/css/main.1716a1bd.chunk.css",
-    "static/js/main.90dc4cfa.chunk.js"
+    "static/css/main.54c5d38e.css",
+    "static/js/main.29d252a0.js"
   ]
 }
