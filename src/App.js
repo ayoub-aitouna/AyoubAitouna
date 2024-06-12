@@ -89,7 +89,7 @@ const Skills = [
 
 const projects = [
   {
-    img: "/trancendent.png",
+    img: "https://github.com/ayoub-aitouna/AyoubAitouna/blob/main/public/trancendent.png?raw=true",
     name: "Ft Transcendence",
     text: `Developed a 3D online Ping-Pong game platform using Next.js and Django REST Framework, enhancing
     user experience and SEO with SSR capabilities. Implemented real-time multiplayer and tournament systems, along with a fair matchmaking ranking system. Integrated a live chat feature and a rewarding achievement system to boost user engagement. Utilized Docker for application deployment and PostgreSQL for robust data management.`,
