@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./skillsItem.module.css";
-import * as Iconsi from "react-icons/si";
+
 function Skillsitem({ ComponentIcon, name, text }) {
   return (
     <div className={style.skillsitemwrapper}>
@@ -14,7 +14,7 @@ function Skillsitem({ ComponentIcon, name, text }) {
       </div>
       <div className={style.infoSide}>
         <p>{text}</p>
-        <p className={style.viewmore}>View Examples</p>
+        {/* <p className={style.viewmore}>View Examples</p> */}
       </div>
     </div>
   );

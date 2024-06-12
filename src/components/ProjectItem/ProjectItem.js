@@ -28,15 +28,18 @@ function ProjectItem({ image, name, text, categories, githuburl, url }) {
         >
           <input type="button" value="code on github" />
         </a>
+        {
+          url &&
+          <a
+            className={style.link}
+            href={url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <input type="button" value="View live" />
+          </a>
+        }
 
-        <a
-          className={style.link}
-          href={url}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <input type="button" value="View live" />
-        </a>
       </div>
     </div>
   );
