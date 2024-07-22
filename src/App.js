@@ -139,7 +139,7 @@ const projects = [
     Url: null,
   },
   {
-    img: "https://media.licdn.com/dms/image/D4E22AQH3-7FDadCjow/feedshare-shrink_1280/0/1705644395620?e=1721260800&v=beta&t=yrgcQNujhglFOtplJeZzfkwyoQR06U9MZwUdwVj2Fz0",
+    img: "https://media.licdn.com/dms/image/D4E22AQH3-7FDadCjow/feedshare-shrink_1280/0/1705644395620?e=1724284800&v=beta&t=Ga1ioB76-oonUfKsaxQ6S_xq1J4iJCayBGWcpKVcgkc",
     name: "Basic Kernel Development",
     text: `Crafted a basic kernel from scratch, inspired by the "Writing a Simple Operating System from Scratch" book. Implemented key components like the Global Descriptor Table (GDT), laying the foundation for future enhancements. Currently working on integrating an Interrupt Service Routine (ISR) to enable the kernel to respond to hardware and software-generated interrupts.`,
     categories: ["C", "Assembly", "Kernel Development"],
