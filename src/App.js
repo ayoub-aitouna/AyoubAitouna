@@ -154,6 +154,13 @@ const projects = [
     githubUrl: "https://github.com/ayoub-aitouna/e_commerce_dashboard",
     Url: "https://control.ipshort.com/",
   },
+  {
+    img: "https://i.pinimg.com/originals/62/35/c4/6235c407663653925ab2d58da6103f58.png",
+    name: "Pet To Cartoon",
+    text: `PettoCartoon.com - an AI-powered platform that transforms pet photos into captivating cartoon-style images. This project allowed me to leverage my technical skills and creativity to build something truly unique.`,
+    categories: ["Express.js", "Sequelize", "NextJS" ],
+    Url: "https://www.pettocartoon.com/en",
+  },
 ];
 
 function App() {
